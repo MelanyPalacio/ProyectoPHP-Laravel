@@ -15,15 +15,16 @@ Programa para ingresar como usuario admin e ingresar usuarios, en este caso un B
 ## Módulos
 
 ### User
-`http://localhost/client Indica los datos que se deben ingresar para el registro nuevo.
+`http://localhost/client` Indica los datos que se deben ingresar para el registro nuevo.
 
-`http://User Muestra los clientes ingresados anteriormente, en una lista.
+`http://User` Muestra los clientes ingresados anteriormente, en una lista.
 
-`http://login Interfaz para ingreso.
+`http://login` Interfaz para ingreso.
 
-`http://localhost/Registro Interfaz para registro.
+`http://localhost/Registro` Interfaz para registro.
 
 ## Comandos
+
 - Para correr el proyecto:
 
         $ localhost/lvl_crud
